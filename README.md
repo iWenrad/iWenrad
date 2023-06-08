@@ -4,7 +4,7 @@
 
 <div>
 <h3>About me:</h3>
-<p>
+<p style="font-size: 20px">
 I am a beginner React Front-end developer. I have experience of work with languages like Python, C#, C++, SQL. Now I'm learning the Front-End development on React.
 </p>
 </div>
