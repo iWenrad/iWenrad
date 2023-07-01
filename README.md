@@ -23,7 +23,8 @@ I am a beginner React Front-end developer. I have experience of work with langua
 
 <h3>Follow me:</h3>
 
-<div display=flex>
+<div style="display: flex; gap: 10px">
 <a href="https://t.me/iwenrad" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-333333?style=for-the-badge&logo=TELEGRAM"></a>
+<a href="https://www.codewars.com/users/iWenrad"><img src="https://img.shields.io/badge/CodeWars-333333?style=for-the-badge&logo=CODEWARS"></a>
 <a href="https://leetcode.com/vitalii-bodiak/" target="_blank"><img src="https://img.shields.io/badge/leetcode-333333?style=for-the-badge&logo=leetcode"></a>
 </div>
